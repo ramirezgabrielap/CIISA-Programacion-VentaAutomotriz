@@ -1,0 +1,9 @@
+com\mycompany\concesionaria\Concesionaria.class
+com\mycompany\concesionaria\Vehiculo.class
+com\mycompany\concesionaria\Auto.class
+com\mycompany\concesionaria\BaseDeDatos.class
+com\mycompany\concesionaria\Logica.class
+com\mycompany\concesionaria\RegistroVenta.class
+com\mycompany\concesionaria\Motocicleta.class
+com\mycompany\concesionaria\Camioneta.class
+com\mycompany\concesionaria\Comprador.class
